@@ -1,0 +1,34 @@
+👇
+data types in javascript
+
+1. Primitive Types - number, boolean, void, undefined, string, symbol, null
+2. Object Types    - functions, arrays, classes, objects
+
+👇
+Type annotations and Type interface in typescript
+1. Type annotations : code we add to tell the typescript what type of value a variable will refer to.
+2. Type inference   : typescriptn tries to figure out what type of value a variable refers to.
+
+👇
+'any' type in typescript
+1. A type just as string, boolean are.
+2. It means that typescript has no idea what this is - can't check.
+3. Avoid variable with any at all cost.
+
+
+👉
+       Type annotations            <--->          Type inference
+    we decide the type of value              typescript guesses the type
+
+    when to use it : -                       when to use it : -
+when we declare a variable in                        Always
+one line then initialize it later.
+
+when we want a variable to have a
+type that can't be inferred.
+
+when the function returns any type 
+and we need the clarify the value.
+
+
+
