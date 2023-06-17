@@ -14,3 +14,6 @@ node <filename>
 
 <!-- to directly execute the .ts file ( compiltation + execution) -->
 ts-node <filename>
+
+<!-- to run this project -->
+npx parcel index.html
