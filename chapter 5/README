@@ -1,0 +1,9 @@
+ initialize npm 
+  -> npm init -y
+  
+ initialize typescript bundling
+  -> tsc --init
+  -> open tsconfig.json 
+  -> update these two keys "outDir": "./build", and "rootDir": "./src",
+
+npm install concurrently nodemon
