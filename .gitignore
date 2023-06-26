@@ -5,3 +5,8 @@
 /chapter 4/node_modules
 /chapter 4/dist
 /chapter 4/.cache
+
+/chapter 5/node_modules
+/chapter 5/dist
+/chapter 5/.cache
+/chapter 5/build
