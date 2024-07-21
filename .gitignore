@@ -10,3 +10,5 @@
 /chapter 5/dist
 /chapter 5/.cache
 /chapter 5/build
+
+/react+typescript/node_modules
